@@ -1,0 +1,16 @@
+{
+  "name": "drozelhome-tests",
+  "version": "1.0.0",
+  "description": "Tests for modules of drozelhome (smart home automation)",
+  "main": "main.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.2.0"
+  }
+}
